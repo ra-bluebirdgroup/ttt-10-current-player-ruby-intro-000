@@ -9,6 +9,6 @@ def turn_count(board)
 
       return occupied_positions
       puts occupied_positions
-  
+    end
     end
   end
